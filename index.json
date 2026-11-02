@@ -1,0 +1,11 @@
+{
+  "org": "enthought",
+  "repo": "pywin32-ctypes",
+  "versions": [
+    {
+      "commit": "06a3514d2f6b784293d209fd2e54a3c810fd6c65",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:50:29.799293+00:00"
+    }
+  ]
+}
