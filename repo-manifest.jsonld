@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/enthought/pywin32-ctypes/commit/06a3514d2f6b784293d209fd2e54a3c810fd6c65",
       "git:hexsha": "06a3514d2f6b784293d209fd2e54a3c810fd6c65",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/enthought/pywin32-ctypes/commit/b7cb763a64941380fe2cd7247a3b5f8054d0d7c7",
