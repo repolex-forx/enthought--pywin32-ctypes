@@ -3,6 +3,11 @@
   "repo": "pywin32-ctypes",
   "versions": [
     {
+      "commit": "30d3d1345d22a0a1ccab86ceae5d25e438897077",
+      "tag": "v0.2.3",
+      "parsed_at": "2026-11-21T23:42:11.117399+00:00"
+    },
+    {
       "commit": "06a3514d2f6b784293d209fd2e54a3c810fd6c65",
       "tag": "",
       "parsed_at": "2026-11-02T18:50:29.799293+00:00"
